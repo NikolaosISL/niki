@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php echo "<!DOCTYPE html>"?>
 <html>
 <head>
 <title>niki's site</title>
